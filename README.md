@@ -79,3 +79,6 @@ android:requestLegacyExternalStorage="true"
 
 ---
 
+📽️ Assignment Demo Video  
+🎥 Filename: `saurav_scorecard_assignment.mp4`  
+🔗 [Watch here](https://drive.google.com/file/d/1uxFfuzERS6sV_Uzy_6f-O3LFZ4kdmjSh/view?usp=drive_link)
